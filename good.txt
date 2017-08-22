@@ -3,6 +3,8 @@ for diff compare.
 Today is very good!
 Today is very good!
 Today is very good!edit by master
+Today is very good!edit by feature pay
+Edit by merging.
 Today is very good!
 Today is very good!
 Today is very good!
